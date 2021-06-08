@@ -1,3 +1,3 @@
 <?php
-print "Hello, World! Welcome to the world of OpenShift";
+print "Hello, World! Welcome to the world of OpenShift !! \n";
 ?>
